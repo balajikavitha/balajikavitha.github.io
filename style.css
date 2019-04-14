@@ -53,7 +53,10 @@
   font-family: gb;
   src: url(fonts/Gotham-Book.otf);
 } 
-
+@font-face {
+  font-family: oy;
+  src: url(fonts/Montez-Regular.ttf);
+} 
 .video-section{
     background:white;
 }
