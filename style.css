@@ -96,7 +96,7 @@ a.arrow {
 }
 p.bod::after {
     content: " ";
-    border: solid 2px #690895;
+    border: solid 2px #ED743E;
     display: block;
     width: 35px;
     margin: 30px auto;
@@ -487,12 +487,11 @@ p {
     background-position-y: 395px;
 }
 .button{
-    background:red;
+    background:#A52320;
     color: white;
     padding: 10px 20px;
     margin: 30px;
     border-radius: 15px;
-    box-shadow: 0px 3px 4px #000;
 }
 .button a{color:white}
 .third_welcome{
