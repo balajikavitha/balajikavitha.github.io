@@ -55,7 +55,7 @@
 } 
 @font-face {
   font-family: oy;
-  src: url(fonts/Montez-Regular.ttf);
+  src: url(css/fonts/Montez-Regular.ttf);
 } 
 .video-section{
     background:white;
