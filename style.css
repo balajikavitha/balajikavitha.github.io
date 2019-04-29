@@ -3,7 +3,6 @@
 /* --- [Master Stylesheet] ----
 :: 1.0 Base CSS Start
 :: 2.0 Header Area CSS
-:: 3.0 Wellcome Area CSS
 :: 4.0 Special Area CSS
 :: 5.0 Features Area CSS
 :: 6.0 Video Area CSS
@@ -476,7 +475,7 @@ p {
 .second_welcome{
     background-image: url('img/Bg-2.png');
     height: 719px;
-    background-position-y: 395px;
+    background-position-y: 525px;
 }
 .button{
     background:#A52320;
