@@ -84,7 +84,7 @@ a.arrow {
     padding-bottom: 30px;
     font-weight: bold;
     position: absolute;
-    top: 75%;
+    top: 70%;
 }
 p.bod::after {
     content: " ";
